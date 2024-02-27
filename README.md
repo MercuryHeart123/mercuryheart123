@@ -32,3 +32,5 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Mercuryheart123/Mercuryheart123/output/snake.svg" alt="Snake animation" />
+
